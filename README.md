@@ -4,20 +4,16 @@ This repo is the code implement of ["Self-organization Preserved Graph Structure
 
 
 # Requirements
-```
-networkx==2.8.4
-numpy==1.22.4
-ogb==1.3.3
-Pillow==9.1.1
-scikit-learn==1.1.1
-scipy==1.8.1
-torch==1.11.0
-torch-cluster==1.6.0
-torch-geometric==2.0.4
-torch-scatter==2.0.9
-torch-sparse==0.6.13
-torch-spline-conv==1.2.1
-```
+* `networkx==2.8.4`
+* `numpy==1.22.4`
+* `scikit-learn==1.1.1`
+* `scipy==1.8.1`
+* ` torch==1.11.0`
+* `torch-cluster==1.6.0`
+* `torch-geometric==2.0.4`
+* `torch-scatter==2.0.9`
+* `torch-sparse==0.6.13`
+* `torch-spline-conv==1.2.1`
 # Datasets
 
 Cora, Citeseer are provided by [IDGL](https://github.com/hugochan/IDGL)
