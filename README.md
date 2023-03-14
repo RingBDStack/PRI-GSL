@@ -149,7 +149,7 @@ Please cite our paper as:
                Philip S. Yu},
   title     = {Self-organization Preserved Graph Structure Learning with Principle
                of Relevant Information},
-  booktitle = { Conference on Artificial Intelligence, {AAAI}
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence, {AAAI}
                2023},
   year      = {2023}
 }
